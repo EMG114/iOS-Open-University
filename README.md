@@ -15,6 +15,10 @@ To start learning iOS App Development, you'll need a programming language of you
 
 * [Hacking with Swift](https://www.hackingwithswift.com/read)
 
+#### Video Tutorials:
+
+* [Swift Track - Team Treehouse](https://teamtreehouse.com/tracks/learn-swift)
+
 #### Youtube Playlists:
 
 * [The Complete Swift 3 Tutorial with Bob](https://www.youtube.com/playlist?list=PL8btZwalbjYlRZh8Q1VK80Ly0YsZ7PZxx)
