@@ -23,7 +23,7 @@ To start learning iOS App Development, you'll need a programming language of you
 
 * [The Complete Swift 3 Tutorial with Bob](https://www.youtube.com/playlist?list=PL8btZwalbjYlRZh8Q1VK80Ly0YsZ7PZxx)
 
-* [Getting Started with Swift 3 - Apple WWDC 2016](https://www.youtube.com/watch?v=AzesJrOcFDU&t=197s)
+* [Getting Started with Swift 3 - Apple WWDC 2016](https://www.youtube.com/watch?v=AzesJrOcFDU)
 
 Learning from video tutorials isn't enough. If you want to have a strong foundation of Swift, I recommend you to finish the Swift - Big Nerd Ranch Guide, before messing with iOS App Development.
 
