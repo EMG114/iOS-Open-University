@@ -36,4 +36,4 @@ To start learning iOS App Development, you'll need a programming language of you
 
 Learning from video tutorials isn't enough. If you want to have a strong foundation of Swift, I recommend you to finish the Swift - Big Nerd Ranch Guide, before messing with iOS App Development.
 
-Also, enrolling in any iOS Development Courses on Udemy as a complete beginner (with no understanding of Swift) will not gonna help.
+Also, enrolling in any iOS Development Courses on Udemy as a complete beginner (with no understanding of Swift) will not help.
