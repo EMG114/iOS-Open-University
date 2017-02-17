@@ -8,6 +8,7 @@ This is my curated list of awesome Swift and iOS Resources to support my multi-m
 
 * [14-Year-Old Prodigy Programmer Dreams In Code](https://www.youtube.com/watch?v=DBXZWB_dNsw)
 * [Facebook's Youngest Engineer - Michael Sayman](https://www.youtube.com/watch?v=mmQG_BCiVHU)
+* [A 12-year-old app developer | Thomas Suarez](https://www.youtube.com/watch?v=Fkd9TWUtFm0)
 * [Life of an Indie App Developer - Computerphile](https://www.youtube.com/watch?v=yVRtJbXQsL8)
 
 ## Beginner
