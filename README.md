@@ -4,6 +4,11 @@
 
 This is my curated list of awesome Swift and iOS Resources to support my multi-month study plan for becoming a self-taught iOS Developer.
 
+## Some Motivation to get you Started
+
+* [14-Year-Old Prodigy Programmer Dreams In Code](https://www.youtube.com/watch?v=DBXZWB_dNsw)
+* [Life of an Indie App Developer - Computerphile](https://www.youtube.com/watch?v=yVRtJbXQsL8)
+
 ## Beginner
 
 To start learning iOS App Development, you'll need a programming language of your choice. There are two programming languages from which you can choose: Objective-C and Swift. For a beginner, I'll prefer starting with Swift.
