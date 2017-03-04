@@ -11,7 +11,7 @@ This is my curated list of awesome Swift and iOS Resources to support my multi-m
 * [A 12-year-old app developer | Thomas Suarez](https://www.youtube.com/watch?v=Fkd9TWUtFm0)
 * [Life of an Indie App Developer - Computerphile](https://www.youtube.com/watch?v=yVRtJbXQsL8)
 
-## Beginner
+## Choose a Language:
 
 To start learning iOS App Development, you'll need a programming language of your choice. There are two programming languages from which you can choose: Objective-C and Swift. For a beginner, I'll prefer starting with Swift.
 
@@ -37,3 +37,6 @@ To start learning iOS App Development, you'll need a programming language of you
 Learning from video tutorials isn't enough. If you want to have a strong foundation of Swift, I recommend you to finish the Swift - Big Nerd Ranch Guide, before messing with iOS App Development.
 
 Also, enrolling in any iOS Development Courses on Udemy as a complete beginner (with no understanding of Swift) will not help.
+
+### Advanced Swift:
+* 
