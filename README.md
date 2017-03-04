@@ -39,4 +39,5 @@ Learning from video tutorials isn't enough. If you want to have a strong foundat
 Also, enrolling in any iOS Development Courses on Udemy as a complete beginner (with no understanding of Swift) will not help.
 
 ### Advanced Swift:
-* 
+* [Pro Swift](https://www.hackingwithswift.com/store/pro-swift)
+* [Swift Coding Challenges](https://www.hackingwithswift.com/store/swift-coding-challenges)
