@@ -2,7 +2,11 @@
 
 ## What is it?
 
-This is my curated list of awesome Swift and iOS Resources to support my multi-month study plan for becoming a self-taught iOS Developer.
+This is my curated list of awesome Swift and iOS Resources to support my multi-month study plan for becoming a self-taught iOS Developer. Anyone who wants to learn iOS App Development and want to get a job as an iOS Developer can follow this path.
+
+I'm aware of the fact that this might not be the one and only plan to become an iOS Developer, but this is my way of learning anything new. And I believe the resources mentioned are pretty good.
+
+These resources are best recommended if you're taking a challenge like #100DaysOfCode or [#301DaysOfCode]()
 
 ## Some Motivation to get you Started
 
