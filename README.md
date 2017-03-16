@@ -45,6 +45,7 @@ Also, enrolling in any iOS Development Courses on Udemy as a complete beginner (
 #### Books:
 * [Pro Swift](https://www.hackingwithswift.com/store/pro-swift)
 * [Swift Coding Challenges](https://www.hackingwithswift.com/store/swift-coding-challenges)
+* [Practical iOS 10](https://www.hackingwithswift.com/store/practical-ios10)
 
 #### Youtube Playlists:
 * [Swift Advanced Object Oriented Programming](https://www.youtube.com/playlist?list=PL8btZwalbjYmZwMwqeeAZKHsQ81GxiuaD)
