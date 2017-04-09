@@ -71,3 +71,8 @@ Now, I would just read the book first, and then follow along. If I think there i
 
 * [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
 * [Jared Davidson](https://www.youtube.com/user/Archetapp)
+
+### Blogs:
+
+* [RayWenderlich.com](https://www.raywenderlich.com/)
+* [AppCoda](http://www.appcoda.com/)
