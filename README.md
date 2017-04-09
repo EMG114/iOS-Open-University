@@ -6,7 +6,7 @@ This is my curated list of awesome Swift and iOS Resources to support my multi-m
 
 I'm aware of the fact that this might not be the one and only plan to become an iOS Developer, but this is my way of learning anything new. And I believe the resources mentioned are pretty good.
 
-These resources are best recommended if you're taking a coding challenge like #100DaysOfCode or [#301DaysOfCode](https://github.com/akshay1337/301-Days-Of-Code). These challenges makes you learn and do programming consistently. 
+These resources are best recommended if you're taking a coding challenge like #100DaysOfCode or [#301DaysOfCode](https://github.com/akshay1337/301-Days-Of-Code). These challenges makes you learn and do programming consistently.
 
 ## Some Motivation to get you Started
 
@@ -53,3 +53,14 @@ Also, enrolling in any iOS Development Courses on Udemy as a complete beginner (
 
 #### Youtube Playlists:
 * [Swift Advanced Object Oriented Programming](https://www.youtube.com/playlist?list=PL8btZwalbjYmZwMwqeeAZKHsQ81GxiuaD)
+
+## iOS App Development:
+
+Now that you have the basics covered, it's time to make some really cool apps. I believe the best way to learning programming is by playing with the code. It's okay to break stuff as long as you're learning and enjoying it.
+
+These are the resources which I recommend personally to start learning iOS:
+
+* [iOS Apprentice - Matthijs Hollemans](https://store.raywenderlich.com/products/ios-apprentice)
+* [The Ray Wenderlich Videos Subscription](https://videos.raywenderlich.com/)
+
+Now, I would just read the book first, and then follow along. If I think there is a concept which I do not understand clearly, I would go to the Video and watch it. That's the approach I follow. I always prefer books rather than videos.
