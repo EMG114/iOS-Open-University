@@ -58,9 +58,16 @@ Also, enrolling in any iOS Development Courses on Udemy as a complete beginner (
 
 Now that you have the basics covered, it's time to make some really cool apps. I believe the best way to learning programming is by playing with the code. It's okay to break stuff as long as you're learning and enjoying it.
 
+### Beginner Level iOS Stuff:
+
 These are the resources which I recommend personally to start learning iOS:
 
 * [iOS Apprentice - Matthijs Hollemans](https://store.raywenderlich.com/products/ios-apprentice)
 * [The Ray Wenderlich Videos Subscription](https://videos.raywenderlich.com/)
 
 Now, I would just read the book first, and then follow along. If I think there is a concept which I do not understand clearly, I would go to the Video and watch it. That's the approach I follow. I always prefer books rather than videos.
+
+### Some Youtube Channels to help you out:
+
+* [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
+* [Jared Davidson](https://www.youtube.com/user/Archetapp)
