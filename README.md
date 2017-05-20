@@ -14,6 +14,7 @@ These resources are best recommended if you're taking a coding challenge like #1
 * [Facebook's Youngest Engineer - Michael Sayman](https://www.youtube.com/watch?v=mmQG_BCiVHU)
 * [A 12-year-old app developer | Thomas Suarez](https://www.youtube.com/watch?v=Fkd9TWUtFm0)
 * [Life of an Indie App Developer - Computerphile](https://www.youtube.com/watch?v=yVRtJbXQsL8)
+* [Full-Time Indie iOS Dev and Co-Founder of 1Button: A Top Dev Interview With Thomas Castel](https://www.raywenderlich.com/159963/full-time-indie-ios-dev-co-founder-1button-top-dev-interview-thomas-castel)
 
 ## Choose a Language:
 
