@@ -90,4 +90,4 @@ Now, I would just read the book first, and then follow along. If I think there i
 
 ---
 
-**Note:** If you are an iOS Developer, and you want to help build this most awesome list of iOS App Development resources, then you are most welcomed. Find me at @Akshay_Webster on Twitter to get started on it.
+**Note:** If you are an iOS Developer, and you want to help build this most awesome list of iOS App Development resources, then you are most welcomed. Find me at [@Akshay_Webster](https://twitter.com/Akshay_Webster) on Twitter to get started on it.
