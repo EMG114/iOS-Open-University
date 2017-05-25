@@ -83,3 +83,7 @@ Now, I would just read the book first, and then follow along. If I think there i
 ### Some blog posts worth reading:
 
 * [Top 10 Most Popular iOS Tutorials on raywenderlich.com (definitely gonna help you)](https://www.raywenderlich.com/157883/top-10-popular-ios-tutorials-raywenderlich-com)
+
+### Github Repositories worth checking out:
+
+* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
