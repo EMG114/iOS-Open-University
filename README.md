@@ -87,6 +87,7 @@ Now, I would just read the book first, and then follow along. If I think there i
 ### Github Repositories worth checking out:
 
 * [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
+* [Awesome iOS](https://github.com/vsouza/awesome-ios)
 
 ---
 
