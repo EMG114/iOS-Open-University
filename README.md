@@ -88,6 +88,7 @@ Now, I would just read the book first, and then follow along. If I think there i
 
 * [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
 * [Awesome iOS](https://github.com/vsouza/awesome-ios)
+* [What's new in Swift 4](https://github.com/ole/whats-new-in-swift-4)
 
 ---
 
