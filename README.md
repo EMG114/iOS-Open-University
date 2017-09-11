@@ -64,8 +64,10 @@ Now that you have the basics covered, it's time to make some really cool apps. I
 
 These are the resources which I recommend personally to start learning iOS:
 
+* [Start Developing with iOS - Apple's Guide](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
 * [iOS Apprentice - Matthijs Hollemans](https://store.raywenderlich.com/products/ios-apprentice)
 * [The Ray Wenderlich Videos Subscription](https://videos.raywenderlich.com/)
+* [Stanford's 2017 iTunes U course](https://itunes.apple.com/in/course/developing-ios-10-apps-swift/id1198467120) (highly recommneded, but not for a beginner)
 
 Now, I would just read the book first, and then follow along. If I think there is a concept which I do not understand clearly, I would go to the Video and watch it. That's the approach I follow. I always prefer books rather than videos.
 
