@@ -40,21 +40,21 @@ To start learning iOS App Development, you'll need a programming language of you
 
 * [Getting Started with Swift 3 - Apple WWDC 2016](https://www.youtube.com/watch?v=AzesJrOcFDU)
 
-* [Swift 3 for Beginners - The Swifty Nerd](https://www.youtube.com/playlist?list=PLvMYZOwDO7r3gDF1f23pWb19Awdt_wHom)
-
 Learning from video tutorials isn't enough. If you want to have a strong foundation of Swift, I recommend you to finish the Swift - Big Nerd Ranch Guide, before messing with iOS App Development.
 
 Also, enrolling in any iOS Development Courses on Udemy as a complete beginner (with no understanding of Swift) will not help.
 
 ### Advanced Swift:
 
+You can now go ahead skip this section if you wanna tinker with Apps at this point of time, but for the more curious, here is a list of some really good intermediate to advanced Swift resources.
+
 #### Books:
 * [Pro Swift](https://www.hackingwithswift.com/store/pro-swift)
 * [Swift Coding Challenges](https://www.hackingwithswift.com/store/swift-coding-challenges)
-* [Practical iOS 10](https://www.hackingwithswift.com/store/practical-ios10)
+* [Functional Swift - objc.io](https://www.objc.io/books/functional-swift/)
+* [Advanced Swift - objc.io](https://www.objc.io/books/advanced-swift/)
 
-#### Youtube Playlists:
-* [Swift Advanced Object Oriented Programming](https://www.youtube.com/playlist?list=PL8btZwalbjYmZwMwqeeAZKHsQ81GxiuaD)
+I personally prefer the [objc.io books](https://www.objc.io/books).
 
 ## iOS App Development:
 
@@ -64,6 +64,7 @@ Now that you have the basics covered, it's time to make some really cool apps. I
 
 These are the resources which I recommend personally to start learning iOS:
 
+* [iOS 11 & Swift 4 - The Complete iOS App Development Bootcamp by Angela Yu :](https://www.udemy.com/ios-11-app-development-bootcamp/) This is the first course you should start with, if you're a beginner in programming.
 * [Start Developing with iOS - Apple's Guide](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
 * [iOS Apprentice - Matthijs Hollemans](https://store.raywenderlich.com/products/ios-apprentice)
 * [The Ray Wenderlich Videos Subscription](https://videos.raywenderlich.com/)
@@ -74,6 +75,7 @@ Now, I would just read the book first, and then follow along. If I think there i
 ### Some Youtube Channels to help you out:
 
 * [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
+* [Brian Advent](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/) (this guy has a ton of iOS material you would love to play with.)
 * [Jared Davidson](https://www.youtube.com/user/Archetapp)
 
 ### Blogs:
